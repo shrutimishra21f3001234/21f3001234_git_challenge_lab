@@ -1,1 +1,3 @@
-# 21f3001234_git_challenge_lab
+# Git Challenge Lab
+
+This repository demonstrates basic Git operations and branching workflow.
